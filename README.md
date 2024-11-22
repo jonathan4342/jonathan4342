@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript 
+- 💻 &nbsp; JavaScript, Go
 - 🌐 &nbsp; | HTML | CSS | React | Bootstrap | Node.js 
 - 🛢 &nbsp; Postgrest | Firebase | 
 - 🔧 &nbsp; Visual Studio code |  Git
